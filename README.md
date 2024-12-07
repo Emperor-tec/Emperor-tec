@@ -16,9 +16,5 @@ Hi, I'm Ahmad Khalid Hussain, a passionate **Machine Learning Engineer** and **D
 - **Natural Language Processing (NLP)**: Working with text data and sentiment analysis models.
 - **Computer Vision**: Developing models for image classification, object detection, etc.
 
-//### 📈 My GitHub Stats:
-//![Stats](https://github-readme-stats.vercel.app/api?username=Emperor-tec&show_icons=true)
-
-
 ### 📬 How to Reach Me:
 - 💼 **LinkedIn**: https://www.linkedin.com/in/ahmad-khalid-hussain
